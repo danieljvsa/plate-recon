@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "plate-app",
+    "slug": "plate-app",
+    "version": "1.0.1",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/migascl/plate-app",
+    "android": {
+      "package": "com.migascl.plateapp"
+    }
+  }
+}
